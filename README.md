@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Richadson Junior</h1>
-<h3 align="center">Analista de Sistemas - UX & UI Designer</h3>
+<h1 align="center">Hi 👋, I'm Richadson Santos</h1>
+<h3 align="center">Analista de Sistemas - Senior Js</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
