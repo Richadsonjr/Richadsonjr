@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Richadson Junior</h1>
 <h3 align="center">Dev. FullStack</h3>
 
+- Pós em Engenharia de Software **Universidade Cruzeiro do Sul**
+
+- Formado em Analise de Sistemas **Universidade Estácio de Sá**
+
 - email: **richadsonjr@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
