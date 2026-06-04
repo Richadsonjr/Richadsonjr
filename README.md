@@ -11,7 +11,8 @@
 <div align="center">
 
   **🎓 Formação Acadêmica**
-  
+  MBA em Inteligencia Artificial(Cursando) | **Universidade Estácio de Sá**
+  <br>
   Pós em Engenharia de Software | **Universidade Cruzeiro do Sul**
   <br>
   Formado em Análise de Sistemas | **Universidade Estácio de Sá**
