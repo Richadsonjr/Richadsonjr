@@ -2,7 +2,7 @@
 <h3 align="center">Senior FullStack Developer</h3>
 
 <p align="center">
-  <em>+18 anos de experiência desenvolvendo soluções de software.</em><br>
+  <em>+19 anos de experiência desenvolvendo soluções de software.</em><br>
   <em>Atualmente focado no ecossistema <strong>Java</strong>, Google Cloud Platform e Inteligência Artificial.</em>
 </p>
 
